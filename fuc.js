@@ -123,3 +123,16 @@ const { FusedConv2D } = require("@tensorflow/tfjs-core");
 // }
 
 // console.log(findSmallestElement([100,200,3,0,2,1]));
+
+//문제6. 돈을 매개변수로 받으면 몇개의 지폐와 동전이 필요한지 최소 개수를 계산해주는 함수를 만드시오.
+// 출력예 )
+
+// 12300인 경우
+//  50000 X 0
+//  10000 X 1
+//  5000  X 0
+//  1000 X 2
+//  500 X 0
+//  100 X 3
+
+// function
